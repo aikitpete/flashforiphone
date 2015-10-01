@@ -1,0 +1,16 @@
+<flex-config xmlns="http://www.adobe.com/2006/flex-config">
+  <target-player>10</target-player>
+  <compiler>
+    <debug>true</debug>
+    <source-path>
+      <path-element>src</path-element>
+    </source-path>
+  </compiler>
+  <include-classes>
+    <class>uiclient</class>
+    <class>VideoExample</class>
+    <class>EntryPoint</class>
+    <class>ExtendedButton</class>
+  </include-classes>
+  <output>/Users/swyna/IdeaProjects/testIPhone/out/production/testIPhone/iphone.swc</output>
+</flex-config>
